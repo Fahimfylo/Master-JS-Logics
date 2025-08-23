@@ -1,4 +1,4 @@
-// Rectangle Area
+// Area of Rectangle
 
 function rectangleArea(length, width) {
   const area = length * width;
